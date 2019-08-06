@@ -6,8 +6,11 @@
 
 대신 엔진 기본 기능인 AnimDynamics 를 사용해주시기 바랍니다. 
 
-런처 버전 엔진 사용자는 [4.16 버전 SoftBone4.16.zip](https://github.com/EGKSupport/SoftbonePlugin/raw/4.16/SoftBone4.16.zip) 
-[4.22 버전 SoftBone4.22.zip](https://github.com/EGKSupport/SoftbonePlugin/raw/4.22/SoftBone4.22.zip)파일을 다운로드 받아서 사용하실 수 있습니다.
+런처 버전 엔진 사용자는 아래 파일을 다운로드 받아서 사용하실 수 있습니다.
+
+[4.16 - SoftBone4.16.zip](https://github.com/EGKSupport/SoftbonePlugin/raw/4.16/SoftBone4.16.zip) 
+
+[4.22 버전 SoftBone4.22.zip](https://github.com/EGKSupport/SoftbonePlugin/raw/4.22/SoftBone4.22.zip)
 
 SoftBone controller is for a bone chain composed of jiggle bones. 
 
