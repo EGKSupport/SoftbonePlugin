@@ -10,7 +10,7 @@
 
 [4.16 - SoftBone4.16.zip](https://github.com/EGKSupport/SoftbonePlugin/raw/4.16/SoftBone4.16.zip) 
 
-[4.22 버전 SoftBone4.22.zip](https://github.com/EGKSupport/SoftbonePlugin/raw/4.22/SoftBone4.22.zip)
+[4.22 - SoftBone4.22.zip](https://github.com/EGKSupport/SoftbonePlugin/raw/4.22/SoftBone4.22.zip)
 
 SoftBone controller is for a bone chain composed of jiggle bones. 
 
