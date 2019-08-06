@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+
+	"FriendlyName" : "SoftBone Controller",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Epic Games Korea",
+	"Description" : "소프트본 컨트롤러는 지글본으로 구성된 본 체인에 적용할 수 있습니다. \n이 플러그인은 더 이상 업데이트를 지원하지 않습니다. \n대신 엔진 기본 기능인 AnimDynamics 를 사용해주시기 바랍니다. \n\nSoftBone controller is for a bone chain composed of jiggle bones. \nThis plugin is no longer updated. \nPlease use Anim Dynamics, Engine default feature.",
+	"Category" : "Bone Controller",
+	"EnabledByDefault" : true,
+	"Installed": false,
+	"Modules" :
+	[
+		{
+			"Name" : "SoftBone",
+			"Type" : "Runtime"
+		},
+		{
+			"Name" : "SoftBoneEditor",
+      "Type": "Developer",
+			"LoadingPhase" : "PreDefault"
+		}
+
+	]
+}
