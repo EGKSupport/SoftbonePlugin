@@ -26,6 +26,8 @@ Bone Chain 에 하나의 체인을 추가하고
 
 Solver에 설정과 노드의 입력값에 따라 체인의 반응을 설정할 수 있습니다.
 
+![Screenshot](Docs/SBSample.gif)
+
 Add target chain to Bone Chain
 Chains that have same settings can be added to Additional Chains.
 
@@ -43,6 +45,7 @@ but further update is not planned.
 
 ## References
 
+* [애님 다이내믹스](https://docs.unrealengine.com/ko/Engine/Animation/NodeReference/SkeletalControls/AnimDynamics/index.html)
 * [Anim Dynamics](https://docs.unrealengine.com/en-US/Engine/Animation/NodeReference/SkeletalControls/AnimDynamics/index.html)
-* [Anim Dynamics](https://docs.unrealengine.com/en-US/Engine/Animation/NodeReference/SkeletalControls/AnimDynamics/index.html)
-
+* [리짓 바디](https://docs.unrealengine.com/ko/Engine/Animation/NodeReference/SkeletalControls/RigidBody/index.html)
+* [Rigid Body](https://docs.unrealengine.com/en-US/Engine/Animation/NodeReference/SkeletalControls/RigidBody/index.html)
